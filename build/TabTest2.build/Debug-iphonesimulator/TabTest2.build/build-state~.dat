@@ -1,0 +1,443 @@
+TTabTest2
+v7
+r0
+t323238906.913104
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/Info.plist" TabTest2-Info.plist
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib"
+cProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch.gch TabTest2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2AppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/webViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/moreViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productView.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListingController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapping.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2" normal i386
+cGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2"
+cTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.h
+c000000004D93FE4F0000000000000235
+t1301544527
+s565
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m
+c000000004D93FE480000000000000A4C
+t1301544520
+s2636
+i"TabTest2AppDelegate.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.h
+c000000004D73C0830000000000000160
+t1299431555
+s352
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m
+c000000004D73C0600000000000000631
+t1299431520
+s1585
+i"mapViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.h
+c000000004D93FD5A00000000000001BA
+t1301544282
+s442
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m
+c000000004D93FD3E00000000000006D3
+t1301544254
+s1747
+i"mapping.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.h
+c000000004D93F8C700000000000001AC
+t1301543111
+s428
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m
+c000000004D93EC780000000000001284
+t1301539960
+s4740
+i"moreViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.h
+c000000004D93D79A0000000000000107
+t1301534618
+s263
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m
+c000000004D93DA200000000000001510
+t1301535264
+s5392
+i"productListing.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.h
+c000000004D93F7FD0000000000000297
+t1301542909
+s663
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m
+c000000004D93F8DC0000000000001AF4
+t1301543132
+s6900
+i"productListingController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.h
+c000000004D93CEA400000000000000DE
+t1301532324
+s222
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m
+c000000004D73A1940000000000000609
+t1299423636
+s1545
+i"productView.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.h
+c000000004D93CC79000000000000014A
+t1301531769
+s330
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m
+c000000004D73E0F700000000000009DB
+t1299439863
+s2523
+i"webViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib
+c000000004D940466000000000000B9DD
+t1301546086
+s47581
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/TabTest2_Prefix.pch
+c000000004D73954A00000000000000B9
+t1299420490
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app
+t1301546106
+s204
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app.dSYM
+t1301546106
+s102
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/Info.plist
+t1301546105
+s595
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/MainWindow.nib
+t1301546105
+s6946
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/PkgInfo
+t1301546105
+s8
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2
+t1301546106
+s36232
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2.LinkFileList
+c000000004D94047900000000000004DD
+t1301546105
+s1245
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2AppDelegate.o
+t1301546106
+s51888
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/main.o
+t1301546106
+s6344
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapViewController.o
+t1301546106
+s35628
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapping.o
+t1301546106
+s37648
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/moreViewController.o
+t1301546106
+s38684
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListing.o
+t1301535173
+s40796
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListingController.o
+t1301546106
+s49236
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productView.o
+t1301546106
+s34484
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/webViewController.o
+t1301546106
+s42404
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m
+c000000004D73954A000000000000016D
+t1299420490
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch.gch
+t1301546106
+s15211536
+
+NTabTest2-Info.plist
+c000000004D73954A000000000000038D
+t1299420490
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323238905#323238905#0(0"0(0#1#0"8612893344#0"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2AppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.576964
+e323238906.653204
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2AppDelegate.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m: In function '-[TabTest2AppDelegate applicationDidFinishLaunching:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m:24: warning: 'return' with a value, in function returning void
+lSLF07#2@97"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m323238906#323238906#0(313"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m: In function '-[TabTest2AppDelegate applicationDidFinishLaunching:]':/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m:24: warning: 'return' with a value, in function returning void1(22@49"'return' with a value, in function returning void323238906#160#153#0(6@89"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m323237320#24#0#24#0#0"0(0#0#89"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m8616502400#2225"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/TabTest2AppDelegate.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2AppDelegate.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.576151
+e323238906.626060
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/main.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m323238906#323238906#0(0"0(0#0#66"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m8616943488#2187"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/main.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.653376
+e323238906.739898
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m323238906#323238906#0(0"0(0#0#87"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m8613906464#2221"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapViewController.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapping.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.796641
+e323238906.867867
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapping.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m323238906#323238906#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m8611997632#2201"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/mapping.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/mapping.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/moreViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.686821
+e323238906.760433
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/moreViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: In function '-[moreViewController numberOfSectionsInTableView:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:75: warning: control reaches end of non-void function
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: In function '-[moreViewController tableView:numberOfRowsInSection:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:81: warning: control reaches end of non-void function
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: At top level:
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'txtInput' requires method '-txtInput' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'txtInput' requires the method 'setTxtInput:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'lblMessage' requires method '-lblMessage' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'lblMessage' requires the method 'setLblMessage:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@96"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323238906#323238906#0(1640"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: In function '-[moreViewController numberOfSectionsInTableView:]':/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:75: warning: control reaches end of non-void function/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: In function '-[moreViewController tableView:numberOfRowsInSection:]':/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:81: warning: control reaches end of non-void function/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m: At top level:/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'txtInput' requires method '-txtInput' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'txtInput' requires the method 'setTxtInput:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'lblMessage' requires method '-lblMessage' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m:176: warning: property 'lblMessage' requires the method 'setLblMessage:' to be defined - use @synthesize, @dynamic or provide a method implementation7(22@40"Control reaches end of non-void function323238906#156#143#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#75#0#75#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function323238906#459#143#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#81#0#81#0#40"control reaches end of non-void function0(23@13"At top level:323238906#602#104#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#0#0#0#0#0"0(22@124"Property 'txtInput' requires method '-txtInput' to be defined - use @synthesize, @dynamic or provide a method implementation323238906#706#228#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#176#0#176#0#0"0(22@131"Property 'txtInput' requires the method 'setTxtInput:' to be defined - use @synthesize, @dynamic or provide a method implementation323238906#934#235#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#176#0#176#0#0"0(22@128"Property 'lblMessage' requires method '-lblMessage' to be defined - use @synthesize, @dynamic or provide a method implementation323238906#1169#232#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#176#0#176#0#0"0(22@135"Property 'lblMessage' requires the method 'setLblMessage:' to be defined - use @synthesize, @dynamic or provide a method implementation323238906#1401#239#0(6@88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m323232760#176#0#176#0#0"0(0#0#88"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m8613514176#2223"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/moreViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/moreViewController.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListing.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323227972.810289
+e323227973.112043
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListing.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m: In function '-[productListing tableView:cellForRowAtIndexPath:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m:115: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@92"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m323227972#323227973#0(446"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m: In function '-[productListing tableView:cellForRowAtIndexPath:]':/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m:115: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)323227973#152#294#0(6@84"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m323227961#115#0#115#0#33"'*' is deprecated (declared at *)0(0#0#84"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m8612730976#2215"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListing.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListing.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListingController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.760524
+e323238906.862324
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListingController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m323238906#323238906#0(0"0(0#0#94"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m8606567264#2235"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productListingController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productListingController.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productView.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.740186
+e323238906.796552
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productView.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m323238906#323238906#0(0"0(0#0#81"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m8612274976#2209"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/productView.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/productView.o"0#
+
+CCompileC build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/webViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238906.626154
+e323238906.686733
+r1
+xCompileC
+xbuild/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/webViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m323238906#323238906#0(0"0(0#0#87"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m8615634656#2221"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/Classes/webViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/webViewController.o"0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib"
+s323238905.445322
+e323238905.916324
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib:3: warning: The 'window' outlet of 'Tab Test2 App Delegate' is connected to 'Window' but 'window' is no longer defined on TabTest2AppDelegate.
+o/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib:10: warning: The 'view' outlet of 'Tab Bar Controller' is connected to 'View', but this view controller is not intended to have its view set in this manner.
+lSLF07#2@25"CompileXIB MainWindow.xib323238905#323238905#0(491"/* com.apple.ibtool.document.warnings *//Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib:3: warning: The 'window' outlet of 'Tab Test2 App Delegate' is connected to 'Window' but 'window' is no longer defined on TabTest2AppDelegate./Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib:10: warning: The 'view' outlet of 'Tab Bar Controller' is connected to 'View', but this view controller is not intended to have its view set in this manner.2(22@130"The 'window' outlet of 'Tab Test2 App Delegate' is connected to 'Window' but 'window' is no longer defined on TabTest2AppDelegate.323238905#18446744073709551615#0#0(6@74"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib323238886#3#0#3#0#0"0(22@143"The 'view' outlet of 'Tab Bar Controller' is connected to 'View', but this view controller is not intended to have its view set in this manner.323238905#18446744073709551615#0#0(6@74"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib323238886#10#0#10#0#0"0(0#0#74"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib8613078656#640"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/MainWindow.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2"
+s323238906.890523
+e323238906.910849
+r1
+xGenerateDSYMFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app.dSYM
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TabTest2.app.dSYM build/Debug-iphonesimulator/TabTest2.app/TabTest2323238906#323238906#0(0"0(0#0#109"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest28613860096#455"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app.dSYM"0#
+
+CLd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2" normal i386
+s323238906.867937
+e323238906.890439
+r1
+xLd
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2
+xnormal
+xi386
+lSLF07#2@114"Link /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2323238906#323238906#0(0"0(0#0#0"8616665088#1038"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" -filelist "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/Objects-normal/i386/TabTest2.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/TabTest2"0#
+
+CProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/Info.plist" TabTest2-Info.plist
+s323238905.403288
+e323238905.445245
+r1
+xProcessInfoPlistFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/Info.plist
+xTabTest2-Info.plist
+lSLF07#2@27"Process TabTest2-Info.plist323238905#323238905#0(0"0(0#0#79"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/TabTest2-Info.plist8615163424#551"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabTest2-Info.plist -genpkginfo "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app/Info.plist"0#
+
+CProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch.gch TabTest2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323238905.916430
+e323238906.576061
+r1
+xProcessPCH
+x/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch.gch
+xTabTest2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TabTest2_Prefix.pch323238905#323238906#0(0"0(0#0#79"/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/TabTest2_Prefix.pch8612675712#2055"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/TabTest2-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/TabTest2.build/Debug-iphonesimulator/TabTest2.build/DerivedSources" -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/TabTest2_Prefix.pch" -o /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabTest2_Prefix-eqzjqgzoxbeieaesshtufkgijyjw/TabTest2_Prefix.pch.gch0#
+
+CTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app"
+s323238906.910951
+e323238906.913077
+r1
+xTouch
+x/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app
+lSLF07#2@106"Touch /Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app323238906#323238906#0(0"0(0#0#0"8613333152#325"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/TabTest2/build/Debug-iphonesimulator/TabTest2.app"0#
+
